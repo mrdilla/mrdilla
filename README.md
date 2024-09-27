@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrdilla
+- 👋 Hi, I’m Mr Dilla
 - 👀 I’m interested in app developing
 - 🌱 I’m currently learning Advance Level
 - 💞️ I’m looking to collaborate on coding
